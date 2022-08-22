@@ -2,7 +2,7 @@
 
 **Solver 24** is a **solver** for **game 24** written using **python curses library**.  
 This python file has been converted to an execute file using the **pyinstaller library**.  
-If you find an error, or an idea what feature to add, contact me at **instagram.com/_kevinwijaya**.
+If you find an error, or an idea what feature to add, contact me at **instagram.com/_kevinwijaya**.  
 Sorry I can't share the source code.
 
 Version 1.0  
